@@ -1,1 +1,1 @@
-# -Diffusion-Based-Conditional-Generative-Model
+# Diffusion-Based-Conditional-Generative-Model
