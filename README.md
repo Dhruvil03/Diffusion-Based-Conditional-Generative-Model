@@ -28,4 +28,8 @@ The model successfully learns to generate digit images conditioned on labels and
 - The conditional control is effective — digits generated match their specified class.
 - Even with a simple UNet and limited training steps, the model produces diverse and realistic digit samples.
 
+## 🖼️ Output
+**Class = 9**
+
+<img width="256" height="256" alt="generated_class_9_big" src="https://github.com/user-attachments/assets/74b0e30a-c139-4a27-b97f-eebb7a0cec42" />
 
