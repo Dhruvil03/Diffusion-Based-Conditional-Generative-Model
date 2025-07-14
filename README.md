@@ -33,3 +33,13 @@ The model successfully learns to generate digit images conditioned on labels and
 
 <img width="256" height="256" alt="generated_class_9_big" src="https://github.com/user-attachments/assets/74b0e30a-c139-4a27-b97f-eebb7a0cec42" />
 
+**Class = 3**
+
+<img width="256" height="256" alt="generated_class_3_big" src="https://github.com/user-attachments/assets/a413b26d-ba75-41a2-92bb-7a08d3d769db" />
+
+**Class = 7**
+
+<img width="256" height="256" alt="generated_class_7_big" src="https://github.com/user-attachments/assets/d2db3792-afb4-49fd-85ff-d67eb773853a" />
+
+
+
